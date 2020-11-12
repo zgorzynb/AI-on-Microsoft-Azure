@@ -21,7 +21,7 @@ Poniżej przedstawiono kilka przykładowych możliwości wykorzystania omawianyc
 
 W celu utworzenia bazy pytań i odpowiedzi w serwisie QnA możemy wybrać jedną z dwóch opcji.  Wykorzystanie interfejsu, który został do tego przeznaczony lub wczytanie odpowiednio przygotowanego pliku tekstowego. 
 
-Wykorzystywanie Azure Bot Service jest niezwykle proste. Po utworzeniu odpowiedniego zasobu, możemy wybrać interesujący nas szablon, a następnie wykorzystać tak stworzonego bota na rozmaitych kanałach.
+Wykorzystywanie Azure Bot Service jest niezwykle proste. Po utworzeniu odpowiedniego zasobu, możemy wybrać interesujący nas szablon, a następnie wykorzystać tak stworzonego bota na rozmaitych kanałach. Dodatkowo z wykorzystaniem języka C# możemy edytować istniejace szablony lub tworzyć nowe.
 
 **Płatności**
 
