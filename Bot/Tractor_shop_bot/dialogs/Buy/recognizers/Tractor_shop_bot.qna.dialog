@@ -1,0 +1,8 @@
+{
+  "$kind": "Microsoft.MultiLanguageRecognizer",
+  "id": "QnA_Tractor_shop_bot",
+  "recognizers": {
+    "en-us": "Tractor_shop_bot.en-us.qna",
+    "": "Tractor_shop_bot.en-us.qna"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "$kind": "Microsoft.MultiLanguageRecognizer",
+  "id": "LUIS_Tractor_shop_bot",
+  "recognizers": {
+    "en-us": "Tractor_shop_bot.en-us.lu",
+    "": "Tractor_shop_bot.en-us.lu"
+  }
+}
