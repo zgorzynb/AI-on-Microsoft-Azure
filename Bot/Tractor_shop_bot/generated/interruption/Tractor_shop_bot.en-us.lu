@@ -1,0 +1,79 @@
+
+> LUIS application information
+> !# @app.versionId = 0.1
+> !# @app.culture = en-us
+> !# @app.luis_schema_version = 3.2.0
+
+
+> # Intent definitions
+
+# cancel
+- Cancel
+- End this conversation
+- Goodby
+- Bye bye
+- Bye
+- I have to go
+- I should go
+- Finish
+- Finish this conversation
+
+
+# buy
+- I want to buy something
+- Buy
+- New tractor
+- discover possibilities
+- discover your offer
+- I would like to know the details of your offer
+- Show me your tractors
+- explore your tractors
+
+
+# help
+- help
+- Help me
+- I need help
+- Open help
+
+
+# question
+- Can I have a question?
+- Can I ask you something?
+- Ask
+- Question
+- Questions
+
+
+> # Entity definitions
+
+
+> # PREBUILT Entity definitions
+
+
+> # Phrase list definitions
+
+
+> # List entities
+
+> # RegEx entities
+
+
+
+
+> Source: cross training. Please do not edit these directly!
+# DeferToRecognizer_QnA_Tractor_shop_bot
+- What is the diameter of the sun?
+- How could I order a tractor?
+- How are you?
+- When was your company founded?
+- How can I contact you?
+- What's your cheapest tractor?
+- What is your adress?
+- Your adress?
+- What is your e-mail?
+- Your email?
+- What is your contact phone number?
+- Your phone number?
+- What does your company do?
+- What is your largest tractor?

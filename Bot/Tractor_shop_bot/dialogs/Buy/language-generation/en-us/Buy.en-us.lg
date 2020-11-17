@@ -1,0 +1,31 @@
+[import](common.lg)
+
+# ChoiceInput_Prompt_GPi1sZ()
+-Whether you are looking for a small, medium or large tractor?
+# SendActivity_0ihAGF()
+- You chose ${user.tractor_size} tractor 
+# SendActivity_wUZtQF()
+-We can offer you the following tractors:
+# SendActivity_8B1ke2()
+-Case 50 KM, New Holland 65 KM and Ursus 40 KM
+# SendActivity_DMul34()
+-Case 100 KM, New Holland 105 KM and Ursus 107 KM
+# SendActivity_s0f1aN()
+-Case 150 KM, New Holland 165 KM and Ursus 190 KM
+
+# ChoiceInput_Prompt_QMDhAr()
+-Which one do you choose?
+# ChoiceInput_Prompt_1FHoy6()
+-Which one do you choose?
+# ChoiceInput_Prompt_2gUdhz()
+-Which one do you choose?
+# SendActivity_QQZb82()
+-You chose ${user.tractor_model}
+# SendActivity_Y8Hz7B()
+-The process of selecting the appropriate tractor is complete! If you want to know more details about the selected machine or to buy it, contact our dealer. 
+# ChoiceInput_Prompt_6QELo9()
+- What type of tires do you prefer?
+# SendActivity_HYdwST()
+-Your selected tractor is: ${user.tractor_model} with ${user.tires} tires. Your accesories: ${user.accesories}
+# ChoiceInput_Prompt_KfnPbC()
+-What accessories would you like to have in your tractor?

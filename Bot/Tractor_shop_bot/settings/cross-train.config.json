@@ -1,0 +1,15 @@
+{
+  "Tractor_shop_bot.en-us": {
+    "rootDialog": true,
+    "triggers": {
+      "cancel": [
+        "Cancel_conversation.en-us"
+      ],
+      "buy": [
+        "Buy.en-us"
+      ],
+      "help": [],
+      "question": []
+    }
+  }
+}

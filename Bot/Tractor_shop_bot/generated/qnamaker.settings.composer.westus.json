@@ -1,0 +1,7 @@
+{
+    "qna": {
+        "tractors_knowledge_base_source_en_us_qna": "05abb5c8-cc30-48b7-94c3-d49faeeaa171",
+        "hostname": "https://qna-tractor-bot.azurewebsites.net/qnamaker",
+        "Tractor_shop_bot_en_us_qna": "05abb5c8-cc30-48b7-94c3-d49faeeaa171"
+    }
+}

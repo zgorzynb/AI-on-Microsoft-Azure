@@ -1,0 +1,45 @@
+[import](common.lg)
+
+# SendActivity_Welcome()
+-Welcome to our store!
+
+# TextInput_Prompt_V0qiVK()
+- Enter your first name
+# SendActivity_AFRQjO()
+-My name is ${user.bot_name} and I will be your private bot. 
+
+# TextInput_Prompt_S0yRGj()
+- What is your name?
+# SendActivity_EJPfmC()
+-${user.name}, welcome to Tractoroland! Do you have any questions or do you want to buy something?
+# TextInput_Prompt_63FD1J()
+[Activity
+    Text = ${expandText(@answer)}
+    SuggestedActions = ${foreach(turn.recognized.answers[0].context.prompts, x, x.displayText)}
+]
+
+# SendActivity_5bb1SF()
+- ${expandText(@answer)}
+
+# SendActivity_vpGaWy()
+-Do you have any further questions? If you want to finish our conversation type "end".
+# SendActivity_mumSsh()
+-Unfortunately, I don't understand you ${user.name}
+# SendActivity_msLMs5()
+- Please ask again or type 'help'.
+# SendActivity_d00lB8()
+- ${user.name}, ask me whatever you want!
+# SendActivity_rvN4O6()
+- ${user.name}, you can ask me about the following:
+# SendActivity_SDHTd7()
+-Type 'discover possibilities' if you want to know what we can offer you
+# SendActivity_Q3c8tY()
+- Type your questions! Our bot will try to answer it.
+# SendActivity_44khVo()
+-Type 'cancel' if you want to end the conversation
+# ChoiceInput_Prompt_mh7GEj()
+-Do you want to go through the tractor selection process?
+# SendActivity_vBvW9a()
+-${user.name} We will begin the tractor selection process!
+# SendActivity_nnEHnj()
+-If you don't want to choose a tractor, do you have any other questions?

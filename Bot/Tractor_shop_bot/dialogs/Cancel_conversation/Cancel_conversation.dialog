@@ -1,0 +1,46 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "oieM5k",
+    "name": "Cancel_conversation",
+    "description": "This dialog will end the conversation."
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "BeginDialog",
+        "description": "",
+        "id": "KOHlwF"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "w7Syqk"
+          },
+          "activity": "${SendActivity_w7Syqk()}"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "lcOuqd"
+          },
+          "activity": "${SendActivity_lcOuqd()}"
+        },
+        {
+          "$kind": "Microsoft.CancelAllDialogs",
+          "$designer": {
+            "id": "SSa7YB"
+          },
+          "activityProcessed": true
+        }
+      ]
+    }
+  ],
+  "generator": "Cancel_conversation.lg",
+  "recognizer": "Cancel_conversation.lu.qna",
+  "id": "Cancel_conversation"
+}

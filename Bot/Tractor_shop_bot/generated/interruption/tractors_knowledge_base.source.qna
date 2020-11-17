@@ -1,0 +1,101 @@
+# ? What is the diameter of the sun?
+
+**Filters:**
+- dialogName=tractors_knowledge_base
+
+```
+Easy --> 696,340 km
+```
+
+# ? How could I order a tractor?
+
+**Filters:**
+- dialogName=tractors_knowledge_base
+
+```
+You should contact our dealer.
+```
+
+# ? How are you?
+
+**Filters:**
+- dialogName=tractors_knowledge_base
+
+```
+I`m fine, thanks.
+```
+
+# ? When was your company founded?
+
+**Filters:**
+- dialogName=tractors_knowledge_base
+
+```
+In 1998
+```
+
+# ? How can I contact you?
+
+**Filters:**
+- dialogName=tractors_knowledge_base
+
+```
+You can phone our dealer: +48 999-999-999
+```
+
+# ? What's your cheapest tractor?
+
+**Filters:**
+- dialogName=tractors_knowledge_base
+
+```
+Our cheapest tractor is Ursus 42 KM
+```
+
+# ? What is your adress?
+- Your adress?
+
+**Filters:**
+- dialogName=tractors_knowledge_base
+
+```
+Filtrowa 12, 02-032 Warsaw
+```
+
+# ? What is your e-mail?
+- Your email?
+
+**Filters:**
+- dialogName=tractors_knowledge_base
+
+```
+tractoroland@traktory.pl
+```
+
+# ? What is your contact phone number?
+- Your phone number?
+
+**Filters:**
+- dialogName=tractors_knowledge_base
+
+```
++48 999-999-999
+```
+
+# ? What does your company do?
+
+**Filters:**
+- dialogName=tractors_knowledge_base
+
+```
+Our company sells tractors in Poland. We are the largest company of this type in the country.
+```
+
+# ? What is your largest tractor?
+
+**Filters:**
+- dialogName=tractors_knowledge_base
+
+```
+Our largest tractor is Ursus 190 KM
+```

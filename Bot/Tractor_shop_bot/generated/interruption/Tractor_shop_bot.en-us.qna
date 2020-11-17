@@ -1,0 +1,138 @@
+# ? What is the diameter of the sun?
+
+**Filters:**
+- dialogName=Tractor_shop_bot
+
+```
+Easy --> 696,340 km
+```
+
+# ? How could I order a tractor?
+
+**Filters:**
+- dialogName=Tractor_shop_bot
+
+```
+You should contact our dealer.
+```
+
+# ? How are you?
+
+**Filters:**
+- dialogName=Tractor_shop_bot
+
+```
+I`m fine, thanks.
+```
+
+# ? When was your company founded?
+
+**Filters:**
+- dialogName=Tractor_shop_bot
+
+```
+In 1998
+```
+
+# ? How can I contact you?
+
+**Filters:**
+- dialogName=Tractor_shop_bot
+
+```
+You can phone our dealer: +48 999-999-999
+```
+
+# ? What's your cheapest tractor?
+
+**Filters:**
+- dialogName=Tractor_shop_bot
+
+```
+Our cheapest tractor is Ursus 42 KM
+```
+
+# ? What is your adress?
+- Your adress?
+
+**Filters:**
+- dialogName=Tractor_shop_bot
+
+```
+Filtrowa 12, 02-032 Warsaw
+```
+
+# ? What is your e-mail?
+- Your email?
+
+**Filters:**
+- dialogName=Tractor_shop_bot
+
+```
+tractoroland@traktory.pl
+```
+
+# ? What is your contact phone number?
+- Your phone number?
+
+**Filters:**
+- dialogName=Tractor_shop_bot
+
+```
++48 999-999-999
+```
+
+# ? What does your company do?
+
+**Filters:**
+- dialogName=Tractor_shop_bot
+
+```
+Our company sells tractors in Poland. We are the largest company of this type in the country.
+```
+
+# ? What is your largest tractor?
+
+**Filters:**
+- dialogName=Tractor_shop_bot
+
+```
+Our largest tractor is Ursus 190 KM
+```
+
+> Source: cross training. Please do not edit these directly!
+> !# @qna.pair.source = crosstrained
+
+# ? Cancel
+- End this conversation
+- Goodby
+- Bye bye
+- Bye
+- I have to go
+- I should go
+- Finish
+- Finish this conversation
+- I want to buy something
+- Buy
+- New tractor
+- discover possibilities
+- discover your offer
+- I would like to know the details of your offer
+- Show me your tractors
+- explore your tractors
+- help
+- Help me
+- I need help
+- Open help
+- Can I have a question?
+- Can I ask you something?
+- Ask
+- Question
+- Questions
+
+**Filters:**
+- dialogName=Tractor_shop_bot
+
+```
+intent=DeferToRecognizer_LUIS_Tractor_shop_bot
+```
