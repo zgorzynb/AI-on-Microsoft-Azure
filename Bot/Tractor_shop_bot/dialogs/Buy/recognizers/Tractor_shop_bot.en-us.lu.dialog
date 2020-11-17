@@ -1,8 +1,0 @@
-{
-  "$kind": "Microsoft.LuisRecognizer",
-  "id": "LUIS_Tractor_shop_bot",
-  "applicationId": "=settings.luis.Tractor_shop_bot_en_us_lu.appId",
-  "version": "=settings.luis.Tractor_shop_bot_en_us_lu.version",
-  "endpoint": "=settings.luis.endpoint",
-  "endpointKey": "=settings.luis.endpointKey"
-}

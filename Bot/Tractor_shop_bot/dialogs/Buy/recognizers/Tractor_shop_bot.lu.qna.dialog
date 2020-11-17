@@ -1,7 +1,0 @@
-{
-  "$kind": "Microsoft.CrossTrainedRecognizerSet",
-  "recognizers": [
-    "Tractor_shop_bot.lu",
-    "Tractor_shop_bot.qna"
-  ]
-}
