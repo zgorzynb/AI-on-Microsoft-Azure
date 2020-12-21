@@ -60,7 +60,7 @@ Ze względu na to, że dodanie dodatkowych 50 obrazów do obrazów z 1 iteracji 
 
 ## Zliczanie predykcji
 
-W celu zliczenia predykcji zdecydowano na przygotowanie skryptu w Pythonie. Skrypt ten został przygotowany w środowisku jupyter notebook. Jest dostępny [tutaj](google.com). 
+W celu zliczenia predykcji zdecydowano na przygotowanie skryptu w Pythonie. Skrypt ten został przygotowany w środowisku jupyter notebook. Jest dostępny [tutaj](https://github.com/zgorzynb/AI-on-Microsoft-Azure/blob/main/Computer_Vision/People_counter.ipynb). 
 
 Zdecydowano na komunikację z serwisem przy pomocy API. Wykorzystano zatem bibliotekę requests. 
 
