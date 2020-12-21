@@ -22,7 +22,7 @@ Pierwszym krokiem było stworzenie nowego projektu na stonie customvision.ai. Ut
 
 Pierwszym krokiem w nowo stworzonym projekcie było dodanie zestawu danych treningowych. Następnie na każdym obrazie zaznaczono wszystkie występujące na nim głowy. Zarówno widoczne z przodu jak i z tyłu.
 
-**1 iteracja treningu **
+**1 iteracja treningu**
 
 Podczas pierwszej iteracji treningu wykorzystano 51 ręcznie oznaczonych zdjęć. Wyniki tego treningu wyglądają następująco:
 
