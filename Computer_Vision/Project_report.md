@@ -92,3 +92,4 @@ Podczas wykonywania projektu nie natknięto się na żadne duże problemy. Warto
 ## Podsumowanie
 
 Dzięki wykorzystaniu serwisu Custom Vision udało się stworzyć aplikacje, która w pewnym stopniu jest w stanie zliczać liczbę osób na obrazie. Uważam, że program od początku miał małe szanse na prawidłowe działanie dla tłumu ludzi. Warto jednak zaznaczyć, że wraz ze wzrostem liczby obserwacji (oznaczonych zdjęć), jakość działania programu mogłaby się znacznie zwiększyć. Dodatkowo mogłem skorzystać z uczenia bezpośrednio w Pythonie i wczytanie adnotacji ze zbioru danych, jednak nie zdecydowałem się na to umyślnie, chcąc przetestować możliwości oznaczania.
+Wyeksportowana wersja modelu została zamieszczona [tutaj](https://drive.google.com/file/d/1IQgMzw1-NeYLam5N6agHCLiuEmOZAfrp/view?usp=sharing).
